@@ -1,0 +1,25 @@
+body {
+    height: 100%;
+    margin: 0;
+}
+
+.primeiroh2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login_caixa {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 500px;
+    text-align: center;
+    font-size: 25px;
+}
